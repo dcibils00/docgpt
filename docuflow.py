@@ -17,7 +17,7 @@ import tempfile
 ###
 
 # Set API keys and the models to use
-API_KEY = "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"
+API_KEY = ""
 #model_id = "gpt-3.5-turbo"
 model_id = "gpt-4"
 gpt_temperature = 0.4
